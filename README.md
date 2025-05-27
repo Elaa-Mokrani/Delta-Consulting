@@ -19,7 +19,5 @@ Ce projet est un site WordPress réalisé pour une société de consulting fran�
 ![image](https://github.com/user-attachments/assets/babdedb7-7ca7-471b-b5a2-9140de59677b)
 
 
-![Services](screenshots/services.png)
-
 ## 🌐 Lien vers le site
 (https://deltaconsult.fr/)
